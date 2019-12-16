@@ -51,7 +51,7 @@ namespace SeleniumProject1
 			////_contactUs.FillFormEmail();
 
 
-			ContactUs _contactUs = new ContactUs(driver);
+			ContactUs _contactUs = new ContactUs(driver); 
 
 			_contactUs.LableTest();
 
