@@ -1,11 +1,9 @@
 ﻿using System;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore;
 using System.Diagnostics;
 using System.IO;
-using excel = Microsoft.Office.Interop.Excel;
+
 
 
 using System.Data;
