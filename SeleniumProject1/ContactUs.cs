@@ -10,7 +10,7 @@ using log4net.Repository;
 using log4net.Config;
 using System.IO;
 using excel = Microsoft.Office.Interop.Excel;
-using excel1 = ExcelDataReader.Core;
+
 
 using System.Data;
 
