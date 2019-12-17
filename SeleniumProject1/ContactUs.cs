@@ -1,13 +1,9 @@
 ﻿using System;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
-using log4net;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore;
 using System.Diagnostics;
-using log4net.Repository.Hierarchy;
-using log4net.Repository;
-using log4net.Config;
 using System.IO;
 using excel = Microsoft.Office.Interop.Excel;
 
