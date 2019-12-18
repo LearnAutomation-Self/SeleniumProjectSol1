@@ -57,7 +57,7 @@ namespace SeleniumProject1
             driver.FindElement(LastName);
         }
 
-        public void LableTest()
+        public void LableTest() 
 
         {
             string Lable1 = "Type of Inquiry *";
