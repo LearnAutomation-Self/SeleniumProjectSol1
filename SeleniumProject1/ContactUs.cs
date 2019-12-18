@@ -39,7 +39,7 @@ namespace SeleniumProject1
             //driver.FindElement(TypeOfInq).SendKeys("");
         }
 
-        public void FillFormEmail()
+        public void FillFormEmail() 
         {
 
             driver.FindElement(Email).SendKeys("abcd@1234");
