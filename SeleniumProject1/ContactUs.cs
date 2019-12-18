@@ -72,6 +72,7 @@ namespace SeleniumProject1
             {
                 //System.Diagnostics.Debug.WriteLine("Find Lable1");
 
+
                 Debug.WriteLine("Find Lable1");
                 //log4net.Config.BasicConfigurator.Configure();
 
