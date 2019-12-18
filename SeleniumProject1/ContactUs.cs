@@ -66,7 +66,7 @@ namespace SeleniumProject1
             By lable1xpath = By.XPath("/html//section[@id='contentWrapperSection']/div[@class='flexi_hero_par parsys']/div[2]/div/div/div/div[@class='column-container row']/div[@class='col-md-8']/div[@class='container_par_1 parsys']/div[5]/div/form[@role='form']/div[1]/div//label[@class='c-control-label']");
             By lablexpath2 = By.XPath("/html//section[@id='contentWrapperSection']/div[@class='flexi_hero_par parsys']/div[2]/div/div/div/div[@class='column-container row']/div[@class='col-md-8']/div[@class='container_par_1 parsys']/div[5]/div/form[@role='form']/div[3]/div//label[@class='c-control-label']");
 
-            string t = driver.FindElement(lable1xpath).Text;
+            string t = driver.FindElement(lable1xpath).Text; 
 
             if (t.Equals(Lable1))
             {
