@@ -68,7 +68,7 @@ namespace SeleniumProject1
 
             string t = driver.FindElement(lable1xpath).Text; 
 
-            if (t.Equals(Lable1)) 
+            if (t.Equals(Lable1))
             { 
                 //System.Diagnostics.Debug.WriteLine("Find Lable1");
 
