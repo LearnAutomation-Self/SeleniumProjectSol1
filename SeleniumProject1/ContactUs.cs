@@ -15,8 +15,7 @@ namespace SeleniumProject1
     public class ContactUs
     { 
 
-
-      
+              
 
         IWebDriver driver;
         By TypeOfInq = By.XPath("/html//select[@id='contactUs-inquiryType']");
